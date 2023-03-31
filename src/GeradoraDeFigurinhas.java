@@ -32,7 +32,7 @@ public class GeradoraDeFigurinhas {
 
         //escrever uma frase na nova imagem
 
-        graphics.drawString("TOPZERA", 120, novaAltura - 100);
+        graphics.drawString("TOPZERA", 220, novaAltura - 100);
 
 
         //escrever a nova imagem em um arquivo
